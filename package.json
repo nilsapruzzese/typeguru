@@ -1,6 +1,6 @@
 {
   "name": "typeguru",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeGuru is a lightweight TypeScript utility library for type checking. It includes utility functions for checking object literals, plain objects, specific types, and more.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
