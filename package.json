@@ -1,7 +1,7 @@
 {
-  "name": "Typo",
+  "name": "typeguru",
   "version": "0.0.1",
-  "description": "Typo is a lightweight TypeScript utility library for type checking. It includes utility functions for checking object literals, plain objects, specific types, and more.",
+  "description": "TypeGuru is a lightweight TypeScript utility library for type checking. It includes utility functions for checking object literals, plain objects, specific types, and more.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nilsvennemann/typo"
+    "url": "https://github.com/nilsvennemann/typeguru"
   },
   "keywords": [
     "typescript",
