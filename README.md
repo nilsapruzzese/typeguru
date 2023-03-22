@@ -25,8 +25,10 @@ yarn add @nilsvennemann/typeguru
 To use this project, import the functions you need:
 
 ```typescript
-import { isObjectLiteral } from '@nilsvennemann/typeguru'
-// const isObject = isObjectLiteral({}) - true
+import { isObjectLiteral, isPlainObject } from '@nilsvennemann/typeguru'
+
+const isObject = isObjectLiteral({}) // true
+const isPlain = isPlainObject({}) // true
 ```
 
 ## Contributing
