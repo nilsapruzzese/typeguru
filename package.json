@@ -1,0 +1,29 @@
+{
+  "name": "Typo",
+  "version": "0.0.1",
+  "description": "Typo is a lightweight TypeScript utility library for type checking. It includes utility functions for checking object literals, plain objects, specific types, and more.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilsvennemann/typo"
+  },
+  "keywords": [
+    "typescript",
+    "type-checking",
+    "utilities",
+    "type-utilities"
+  ],
+  "author": "Nils Vennemann",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5",
+    "typescript": "^5.0.2"
+  }
+}
