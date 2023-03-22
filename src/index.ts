@@ -1,1 +1,1 @@
-// main.ts
+export { default as isObjectLiteral } from './utils/isObjectLiteral'
