@@ -1,4 +1,4 @@
-# Typo
+# TypeGuru
 
 Important: This project is still in development and not ready for production use.
 
